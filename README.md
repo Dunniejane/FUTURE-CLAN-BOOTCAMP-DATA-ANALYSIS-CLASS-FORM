@@ -10,3 +10,14 @@ Power BI
 online service [google sheet](https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit#gid=1248562073)
 
 ![](SCREENSHOT.PNG)
+
+
+```
+POWER QUERY EDITOR
+= Table.TransformColumnTypes(#"Renamed Columns",{{"Age Order", Int64.Type}})
+
+```
+
+![](
+
+
